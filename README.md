@@ -12,3 +12,7 @@
 ## PROBLEM SET
 
  - https://cses.fi/problemset/
+
+## Python Libs
+
+ - https://github.com/vinta/awesome-python
